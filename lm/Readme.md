@@ -16,7 +16,7 @@ cat zhwiki-20181001-abstract.xml|python zhwiki_extract.py --tags "title|abstract
 wget http://download.wikipedia.com/zhwiki/latest/zhwiki-latest-pages-articles.xml.bz2
 ```
 
-2) [WikiExtractor](http://medialab.di.unipi.it/wiki/Wikipedia_Extractor)
+2) [WikiExtractor](https://github.com/attardi/wikiextractor)
 
 这是一个抽取wiki内容的工具，是意大利人用 Python 写的一个维基百科抽取器，使用非常方便。直接使用这条命令即可完成抽取
 ```
