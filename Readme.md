@@ -8,7 +8,7 @@
 英文人名 29717条 [English_names_20181028.txt](https://github.com/aitrainer/cnCorpus/blob/master/ner/knowledge/)
 
 # LM
-## zhwiki
+## zhwiki(20181001)
 ### title and abstract数据(128M)
 链接: https://pan.baidu.com/s/1thq5qODuZ1vhbisCAfR-XA 提取码: 38xa
 
