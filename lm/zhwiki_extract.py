@@ -36,10 +36,10 @@ for line in sys.stdin.readlines():
             ms = re.match(r'Wikipedia：(.*)', text)
             if ms:
                 text = ms.group(1)
-            ms = re.match(r'(.*?)（）(.*)', text)
+            ms = re.match(r'(.*?)（(，|；)?）(.*)', text)
             while ms:
-                text = ms.group(1) + ms.group(2)
-                ms = re.match(r'(.*?)（）(.*)', text)
+                text = ms.group(1) + ms.group(3)
+                ms = re.match(r'(.*?)（(，|；)?）(.*)', text)
             if len(text) > 1 and text not in stops:
                 print (Converter('zh-hans').convert(text))
 
