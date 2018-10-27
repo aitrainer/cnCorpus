@@ -2,7 +2,7 @@
 如发现新资源，也欢迎推荐给aitrainer@foxmail.com。aitrainer承诺将及时处理并将结果呈现在此处，谢谢！
 
 
-#NER
+# NER
 ## 人名词典
 中文人名 2089529条 [CN_names_contained_Chinese_English_Japanese_20181028.txt](https://github.com/aitrainer/cnCorpus/blob/master/ner/knowledge/)
 英文人名 29717条 [English_names_20181028.txt](https://github.com/aitrainer/cnCorpus/blob/master/ner/knowledge/)
