@@ -7,6 +7,9 @@
 中文人名 2089529条 [CN_names_contained_Chinese_English_Japanese_20181028.txt](https://github.com/aitrainer/cnCorpus/blob/master/ner/knowledge/)
 英文人名 29717条 [English_names_20181028.txt](https://github.com/aitrainer/cnCorpus/blob/master/ner/knowledge/)
 
+# LM
+## zhwiki
+### title and abstract数据，链接: https://pan.baidu.com/s/1thq5qODuZ1vhbisCAfR-XA 提取码: 38xa
 
 # word2vec
 
