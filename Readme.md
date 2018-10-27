@@ -9,7 +9,8 @@
 
 # LM
 ## zhwiki
-### title and abstract数据，链接: https://pan.baidu.com/s/1thq5qODuZ1vhbisCAfR-XA 提取码: 38xa
+### title and abstract数据
+链接: https://pan.baidu.com/s/1thq5qODuZ1vhbisCAfR-XA 提取码: 38xa
 
 # word2vec
 
